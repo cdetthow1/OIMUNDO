@@ -1,2 +1,0 @@
-# OIMUNDO
-normal oi mundo
